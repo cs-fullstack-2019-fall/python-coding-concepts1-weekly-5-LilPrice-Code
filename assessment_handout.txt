@@ -2,27 +2,28 @@ Write in one or more topics for each question using the following topics: Variab
 
 #1 Topic:_____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+Variables
 Error Messages:
 
 
 
 #2 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+Variables, Conditionals
 Error Messages:
 
 
 
 #3 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+ Variables, Conditionals, While Loops
 Error Messages:
 
 
 
 #4 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
+ Variables, Conditionals, While Loops
 
 Error Messages:
 
@@ -30,42 +31,54 @@ Error Messages:
 
 #5 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+For Loops, Array
 Error Messages:
+   print(squad[x])
+IndexError: list index out of range
 
 
 
 #6 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+Variables, Function
 Error Messages:
 
 
 
 #7 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+For Loops, Array, Class
 Error Messages:
+  File "index.py", line 75
+    for x in range(0, len(bookArray):
+                                    ^
+SyntaxError: invalid syntax
+
+
+  print(bookArray[x.name])
+AttributeError: 'int' object has no attribute 'name'
 
 
 
 #8 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+Variables, Conditionals, Function
 Error Messages:
 
 
 
 #9 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+Variables, For Loops, While Loops, Array
 Error Messages:
 
+    number.appened(num)
+AttributeError: 'list' object has no attribute 'appened'
 
 
 #10 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
+Class, Array, For Loops
 Error Messages:
 
 
