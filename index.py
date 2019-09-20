@@ -8,7 +8,7 @@ def main():
     # pro7()
     # pro8()
     # pro9()
-    # pro10()
+    pro10()
 
 def pro1(): # Ask a user for the year they were born by calculating their age. Assuming they already had their birthday and it’s 2019 print “You are [AGE] years old”
     user = int(input("Enter the year you were born?\n"))
